@@ -10,7 +10,7 @@ module.exports = {
  
         } else {
             message.channel.send('You got a new role! :)');
-            message.member.roles.add('851535029980364872').catch(console.error);
+            message.member.roles.add('role id').catch(console.error);
         }
     }
 }
