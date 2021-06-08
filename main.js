@@ -52,4 +52,4 @@ client.on('message', message =>{
 });
 
 
-client.login('ODUxNTEyMDMyODQ2OTM4MTMy.YL5WYA.y1Sis-vz7akGAA1CjF4I9otjtDE');
+client.login('client ID (must past)');
